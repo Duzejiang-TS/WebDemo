@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="unnamed">
+    <output-path>$PROJECT_DIR$/classes/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="directory" name="lib">
+        <element id="archive" name="JdbcConnection.jar">
+          <element id="module-output" name="JdbcConnection" />
+        </element>
+        <element id="library" level="project" name="mysql-connector-java-5.1.45-bin" />
+      </element>
+      <element id="javaee-facet-resources" facet="JdbcConnection/web/Web" />
+    </root>
+  </artifact>
+</component>
